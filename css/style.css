@@ -1,0 +1,108 @@
+.custom-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.hero-image {
+    object-fit: cover;
+    margin-top: 50px;
+    margin-bottom: -49px;
+}
+
+.card-custom {
+    margin-bottom: 20px;
+}
+
+.carousel-image {
+    object-fit: fill;
+    height: 500px;
+}
+
+.rounded-section {
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.genre-card {
+    transition: transform 0.3s ease;
+    height: 100%;
+}
+
+.genre-card:hover {
+    transform: translateY(-5px);
+}
+
+.genre-image {
+    height: 200px;
+    object-fit: cover;
+}
+
+.page-title {
+    padding: 80px 0 50px 0;
+}
+
+.custom-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.main-content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+    text-align: center;
+}
+
+.logo-main {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.subtitle-main {
+    font-size: 1.3rem;
+    color: #666;
+    margin-bottom: 3rem;
+}
+
+.action-section {
+    background: white;
+    padding: 2.5rem 0;
+    border-top: 1px solid #e9ecef;
+}
+
+.btn-action {
+    padding: 0.8rem 2rem;
+    font-size: 1.1rem;
+    border-radius: 8px;
+    margin: 0 0.5rem;
+    min-width: 180px;
+}
+
+.form-side {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.main-image {
+    height: 400px;
+    object-fit: cover;
+}
+
+.thumbnail {
+    height: 100px;
+    object-fit: cover;
+}
+
+.project-category {
+    background: #6c5ce7;
+    color: white;
+}
